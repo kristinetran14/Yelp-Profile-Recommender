@@ -1,0 +1,8 @@
+__pycache__/
+yelp_data/
+yelp_dataset.tar
+*.db
+*.db-journal
+utils/pkl_files/
+verified_users.csv
+photos/
